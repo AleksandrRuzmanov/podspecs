@@ -23,7 +23,6 @@
     {
         "ios": "14.0"
     },
-    "source_files": "Sources/Collections/**/*.swift",
     "default_subspecs":
     [
         "BitCollections",
